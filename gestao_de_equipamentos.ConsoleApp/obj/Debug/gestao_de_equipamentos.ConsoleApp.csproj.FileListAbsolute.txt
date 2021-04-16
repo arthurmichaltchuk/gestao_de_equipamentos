@@ -1,0 +1,14 @@
+C:\Users\Ivana\source\repos\gestao_de_equipamentos\gestao_de_equipamentos.ConsoleApp\obj\Debug\gestao_de_equipamentos.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Ivana\source\repos\gestao_de_equipamentos\gestao_de_equipamentos.ConsoleApp\obj\Debug\gestao_de_equipamentos.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Ivana\source\repos\gestao_de_equipamentos\gestao_de_equipamentos.ConsoleApp\bin\Debug\gestao_de_equipamentos.ConsoleApp.exe.config
+C:\Users\Ivana\source\repos\gestao_de_equipamentos\gestao_de_equipamentos.ConsoleApp\bin\Debug\gestao_de_equipamentos.ConsoleApp.exe
+C:\Users\Ivana\source\repos\gestao_de_equipamentos\gestao_de_equipamentos.ConsoleApp\bin\Debug\gestao_de_equipamentos.ConsoleApp.pdb
+C:\Users\Ivana\source\repos\gestao_de_equipamentos\gestao_de_equipamentos.ConsoleApp\obj\Debug\gestao_de_equipamentos.ConsoleApp.exe
+C:\Users\Ivana\source\repos\gestao_de_equipamentos\gestao_de_equipamentos.ConsoleApp\obj\Debug\gestao_de_equipamentos.ConsoleApp.pdb
+C:\Users\Ivana\Desktop\NDD\gestao_de_equipamentos\gestao_de_equipamentos.ConsoleApp\bin\Debug\gestao_de_equipamentos.ConsoleApp.exe.config
+C:\Users\Ivana\Desktop\NDD\gestao_de_equipamentos\gestao_de_equipamentos.ConsoleApp\bin\Debug\gestao_de_equipamentos.ConsoleApp.exe
+C:\Users\Ivana\Desktop\NDD\gestao_de_equipamentos\gestao_de_equipamentos.ConsoleApp\bin\Debug\gestao_de_equipamentos.ConsoleApp.pdb
+C:\Users\Ivana\Desktop\NDD\gestao_de_equipamentos\gestao_de_equipamentos.ConsoleApp\obj\Debug\gestao_de_equipamentos.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Ivana\Desktop\NDD\gestao_de_equipamentos\gestao_de_equipamentos.ConsoleApp\obj\Debug\gestao_de_equipamentos.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Ivana\Desktop\NDD\gestao_de_equipamentos\gestao_de_equipamentos.ConsoleApp\obj\Debug\gestao_de_equipamentos.ConsoleApp.exe
+C:\Users\Ivana\Desktop\NDD\gestao_de_equipamentos\gestao_de_equipamentos.ConsoleApp\obj\Debug\gestao_de_equipamentos.ConsoleApp.pdb
